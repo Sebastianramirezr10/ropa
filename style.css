@@ -1,0 +1,17 @@
+* {
+  background: #eee;
+}
+#tabla {
+  border: 1px solid black;
+  margin-left: 59px;
+  margin-top: 20px;
+  float: left;
+  height: 50px;
+}
+
+#formulario {
+  margin-top: 20px;
+}
+#table {
+  margin-top: 20px;
+}

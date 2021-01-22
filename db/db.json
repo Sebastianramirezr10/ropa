@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "categoria": "vestuario",
+      "detalle": "ropa infantil",
+      "producto": "Disney",
+      "id": 1
+    },
+    {
+      "categoria": "vestuario",
+      "detalle": "ropa para adulto",
+      "producto": "chaqueta",
+      "id": 2
+    },
+    {
+      "categoria": "Calzado",
+      "detalle": "para adulto",
+      "producto": "pantalon",
+      "id": 3
+    },
+    {
+      "categoria": "asdasd",
+      "detalle": "asd",
+      "producto": "asd",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
